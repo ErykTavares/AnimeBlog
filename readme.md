@@ -2,13 +2,7 @@
 
 
 ## Ferramentas Usadas:
- <img src="img\icon\html-5.png" alt="html" width="50px" height="50px">
- 
- <img src="img\icon\css.png" alt="css" width="50px" height="50px">
- 
- <img src="img\icon\javascript.png" alt="javascript" width="50px" height="50px">
- 
- <img src="img\icon\jQuery-logo.png" alt="jquery" width="50px" height="50px">
+ <img src="img\icon\html-5.png" alt="html" width="50px" height="50px"><img src="img\icon\css.png" alt="css" width="50px" height="50px"><img src="img\icon\javascript.png" alt="javascript" width="50px" height="50px"><img src="img\icon\jQuery-logo.png" alt="jquery" width="50px" height="50px">
 
 
 ## Descrição:

@@ -16,7 +16,7 @@ $(document).ready(function(){
     )
 
     const sr = ScrollReveal({
-        origin: "top",
+        origin: "left",
         distance: "50px",
         duration: 2000,
         reset: true
